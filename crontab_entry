@@ -1,0 +1,1 @@
+* * * * * /bin/bash /home/sergey/Devops_academy/Lesson3/cron_attempts.sh >> /var/log/ssh_attempts.log 2>&1
